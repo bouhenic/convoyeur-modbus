@@ -1,0 +1,10 @@
+# Sujets de TP et corrigés : ne pas publier
+TP_CONVOYEUR_MODBUS*.md
+TP_CONVOYEUR_MODBUS*.pdf
+
+# Fichiers locaux
+serveur_lab.txt
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
